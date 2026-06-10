@@ -1,4 +1,4 @@
-# Hi, I'm Krishna Kumar Gaud 👋
+#  Krishna Kumar Gaud 👋
 
 ## Software Engineer | .NET Developer | API Integration | QA Testing
 
